@@ -1,4 +1,4 @@
-# Game-Avi-Volans
+# Game - Avi Volans
 A Copy of Flappy Bird Game
 
 **made by Nirvaan Kulchandani**
